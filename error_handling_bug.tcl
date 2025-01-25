@@ -1,0 +1,1 @@
+proc error_example { } { puts "This is an example of an error."  exit }
